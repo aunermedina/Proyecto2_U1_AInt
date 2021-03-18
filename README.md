@@ -68,7 +68,7 @@ Debera de ver la pantalla de inicio de la API.
 
 ### Inicio de React
 
-Ahora ejecutamos React para verlo en el servidor, ejecute el siguiente comando: 
+Ahora ejecutamos React para verlo en el servidor, ejecute el siguiente comando en una terminal nueva: 
 
 ```
 $ npm run dev
@@ -77,6 +77,6 @@ Ahora, abra un navegador web y vaya a su dominio local, por ejemplo, http://127.
 
 
 ## ⛏️ Construido Usando <a name = "built_using"></a>
-- [Python](https://www.python.org/) - Language Programming
-- [Django REST Framework](https://www.django-rest-framework.org/) - Django REST Framework
-- [React](https://es.reactjs.org/) - React
+- [Python](https://www.python.org/) - Lenguaje de programación
+- [Django REST Framework](https://www.django-rest-framework.org/) - Libreria para Web API
+- [React](https://es.reactjs.org/) - Libreria para desarrollo front-end
